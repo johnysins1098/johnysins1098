@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @johnysins1098
 - 👀 I’m interested in microsoft.
 - 🌱 I’m currently learning "Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub"
-- 📫 How to reach me https://www.pass4future.com/
